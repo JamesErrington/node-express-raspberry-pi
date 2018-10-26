@@ -1,0 +1,17 @@
+{
+  "name": "jeff",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Errington",
+  "license": "ISC",
+  "dependencies": {
+    "basic-auth": "2.0.1",
+    "ejs": "2.6.1",
+    "express": "4.16.4",
+    "google-images": "2.1.0"
+  }
+}
